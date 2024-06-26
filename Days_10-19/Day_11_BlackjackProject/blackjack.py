@@ -101,5 +101,3 @@ while gameRun:
                 gameRun = False
     elif status.lower() == 'n':
         gameRun = False
-    else:
-        print("Invalid input. Please enter 'y' or 'n'.")
