@@ -31,3 +31,4 @@ while gameRun:
     if guesses == 0:
         print("No more guesses left. You lost!")
         gameRun = False
+
